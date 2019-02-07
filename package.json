@@ -1,0 +1,27 @@
+{
+  "name": "electron-python-tuto",
+  "version": "1.0.0",
+  "description": "based: https://www.techiediaries.com/python-electron-tutorial/",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidCouronne/electron-python-tuto.git"
+  },
+  "keywords": [
+    "electron",
+    "pyhton"
+  ],
+  "author": "David Couronné",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidCouronne/electron-python-tuto/issues"
+  },
+  "homepage": "https://github.com/DavidCouronne/electron-python-tuto#readme",
+  "devDependencies": {
+    "electron": "^4.0.4"
+  }
+}
